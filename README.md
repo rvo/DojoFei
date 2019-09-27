@@ -1,6 +1,6 @@
 # Coder Dojo: Propuesta para la creación de un espacio de aprendizaje y colaboración en temas de desarrollo de software para la Facultad de Estadística e Informática.
 
-*Si deseas contribuir con una Kata o evento, revisa nuestros [Lineamientos de Contribución](CONTRIBUTING.md) y nuestro [Código de Conducta]("Code of Conduct.md")*
+*Si deseas contribuir con una Kata o evento, revisa nuestros [Lineamientos de Contribución](CONTRIBUTING.md) y nuestro [Código de Conducta](Code%20of%20Conduct.md)*
 
 ## Resumen:
 

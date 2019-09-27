@@ -1,4 +1,4 @@
-⚠️ Esta es la plantilla para PullRequest de Propuesta de Kata⚠️ Esta diseñada para ayudarte a completar un pull request de acuerdo con algunos lineamientos. Por favor sigue las instrucciones a continuación. Recuerda que al contribuir al *Coder Dojo*  debes regirte por nuestro [Codigo de Conducta]("../Code of Conduct.md")
+⚠️ Esta es la plantilla para PullRequest de Propuesta de Kata⚠️ Esta diseñada para ayudarte a completar un pull request de acuerdo con algunos lineamientos. Por favor sigue las instrucciones a continuación. Recuerda que al contribuir al *Coder Dojo*  debes regirte por nuestro [Codigo de Conducta](../Code%20of%20Conduct.md)
 
 ## Checklist ✅
 Por favor completa los pasos en la lista a continuación. De no hacerlo, podríamos tardar más en revisar o tomar en cuenta tu PR.

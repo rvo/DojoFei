@@ -1,6 +1,6 @@
 # Contribuciones
-================
-Recuerda que todas las contribuciones al *Coder Dojo* estan regidas por nuestro [Código de Conducta]("./Code of Conduct.md")
+
+Recuerda que todas las contribuciones al *Coder Dojo* estan regidas por nuestro [Código de Conducta](Code%20of%20Conduct.md")
 
 ## Propuestas de Kata
 
