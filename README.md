@@ -1,5 +1,7 @@
 # Coder Dojo: Propuesta para la creación de un espacio de aprendizaje y colaboración en temas de desarrollo de software para la Facultad de Estadística e Informática.
 
+*Si deseas contribuir con una Kata o evento, revisa nuestros [Lineamientos de Contribución](CONTRIBUTING.md) y nuestro [Código de Conducta]("Code of Conduct.md")*
+
 ## Resumen:
 
 Un &quot;Coder Dojo&quot;, es un lugar donde se reúnen personas interesadas en aprender, practicar, perfeccionar y compartir experiencias relacionadas con técnicas de desarrollo y programación, aplicables a distintas áreas del desarrollo de software. La idea original se deriva de las artes marciales en donde de forma disciplinada, los asistentes compartan conocimiento para la resolución de problemas utilizando y aplicando prácticas ágiles como programación en pares, desarrollo dirigido por pruebas, entre otras prácticas. El objetivo de este tipo de reuniones es apoyar a los programadores en la creación de software  de calidad.
